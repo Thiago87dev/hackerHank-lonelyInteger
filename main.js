@@ -1,3 +1,5 @@
+// Given an array of integers, where all elements but one occur twice, find the unique element.
+
 function lonelyinteger(a) {
     // Write your code here
     for(let i of a){
